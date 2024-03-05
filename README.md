@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rorisang Masilo
 
 ## Software Engineering Student
-#### I am passionate about leveraging technology to drive positive change, developing innovative solutions that solve complex problems. Known for exceptional communication and collaboration skills, I believe excel in cross-functional team environments and thrive on challenges that require creative problem-solving.
+I am student passionate about leveraging technology to drive positive change, developing innovative solutions that solve complex problems. Known for exceptional communication and collaboration skills, I believe excel in cross-functional team environments and thrive on challenges that require creative problem-solving.
 
 
 * 👀 I’m interested in fintech, electric motor vehicles and organisational management tools
