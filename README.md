@@ -8,10 +8,9 @@ I am student passionate about leveraging technology to drive positive change, de
 * 🌱 I’m currently studying Software Engineering (HTML5, CSS3, JS)
 * 💞️ I’m looking to collaborate on business related and fintech projects.
 * 📫 How to reach me <a href="www.linkedin.com/in/rorisang-masilo">LinkedIn<a/> or rbmasilo@gmail.com
-* 🔭 I’m currently working on Mereko Waka business directory.
+* 🔭 I’m currently working on Mereko Waka business directory & It's Meisie fashion e-commerce site.
 * 🌱 I’m currently learning Dynamic Javascript.
 * 😄 Pronouns: She/Her
-* ⚡ Fun fact: I am a former ballerina
 
 ### Tech Stacks
 <p align="left">
