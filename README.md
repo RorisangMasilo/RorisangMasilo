@@ -5,7 +5,7 @@ I am student passionate about leveraging technology to drive positive change, de
 
 
 * 👀 I’m interested in fintech, electric motor vehicles and organisational management tools
-* 🌱 I’m currently studying Software Engineering (HTML5, CSS3, JS)
+* 🌱 I’m currently studying Software Engineering (Javascript engineering)
 * 💞️ I’m looking to collaborate on business related and fintech projects.
 * 📫 How to reach me <a href="www.linkedin.com/in/rorisang-masilo">LinkedIn<a/> or rbmasilo@gmail.com
 * 🔭 I’m currently working on business directory, fashion e-commerce site and appointment booking site.
